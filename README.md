@@ -2,7 +2,7 @@
 
 A web crawler based on Udacity's Courses.
 
-Starts from a URL and by URL's inside the pages, it execute until there is no other URL.
+Starting from an initial URL, runs URL by URL inside the visited pages, making indexing. It stops when there are no more unvisited URLS.
 
 There are the crawl session, the hash session, the popularity session and JSON session.
 
